@@ -9,4 +9,4 @@ Format:
 
 # .COM domains:
 
-[A++++](./COM/A+++.com.txt)
+[A++++](./COM/A++++.com.txt)
