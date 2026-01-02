@@ -14,3 +14,4 @@ Domains that are available to register
 ## .COM domains:
 
 [A++++](./COM/A++++.com.txt)
+[+++++](./COM/+++++.com.txt)
